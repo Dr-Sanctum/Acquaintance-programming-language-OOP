@@ -1,5 +1,6 @@
 package HomeWork.Sem4;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.LinkedList;
@@ -33,7 +34,7 @@ public class Main {
 
         List<Integer> listInt = Arrays.asList(1,2,4,5,-7,6,7,-5);
         List<String> listStrings = Arrays.asList("123456", "ADSF", "3rdsgt", "asd","1256");
-
+       
         System.out.println(filters(listInt, isEven));
         System.out.println(filters(listInt, isPos));
         System.out.println(filters(listStrings, isBegWith));
@@ -52,6 +53,6 @@ public class Main {
                 result.add(t);
             }
         }
-        return (Iterable<T>) result;
+        return (Iterable<T>)result;
             }
 }
