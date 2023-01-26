@@ -1,0 +1,15 @@
+C:\Users\DioXId\Desktop\гикбрэйнс\Acquaintance_OOP\HomeWork\Sem7\bin\Debug\net6.0\Sem7.exe
+C:\Users\DioXId\Desktop\гикбрэйнс\Acquaintance_OOP\HomeWork\Sem7\bin\Debug\net6.0\Sem7.deps.json
+C:\Users\DioXId\Desktop\гикбрэйнс\Acquaintance_OOP\HomeWork\Sem7\bin\Debug\net6.0\Sem7.runtimeconfig.json
+C:\Users\DioXId\Desktop\гикбрэйнс\Acquaintance_OOP\HomeWork\Sem7\bin\Debug\net6.0\Sem7.dll
+C:\Users\DioXId\Desktop\гикбрэйнс\Acquaintance_OOP\HomeWork\Sem7\bin\Debug\net6.0\Sem7.pdb
+C:\Users\DioXId\Desktop\гикбрэйнс\Acquaintance_OOP\HomeWork\Sem7\obj\Debug\net6.0\Sem7.csproj.AssemblyReference.cache
+C:\Users\DioXId\Desktop\гикбрэйнс\Acquaintance_OOP\HomeWork\Sem7\obj\Debug\net6.0\Sem7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DioXId\Desktop\гикбрэйнс\Acquaintance_OOP\HomeWork\Sem7\obj\Debug\net6.0\Sem7.AssemblyInfoInputs.cache
+C:\Users\DioXId\Desktop\гикбрэйнс\Acquaintance_OOP\HomeWork\Sem7\obj\Debug\net6.0\Sem7.AssemblyInfo.cs
+C:\Users\DioXId\Desktop\гикбрэйнс\Acquaintance_OOP\HomeWork\Sem7\obj\Debug\net6.0\Sem7.csproj.CoreCompileInputs.cache
+C:\Users\DioXId\Desktop\гикбрэйнс\Acquaintance_OOP\HomeWork\Sem7\obj\Debug\net6.0\Sem7.dll
+C:\Users\DioXId\Desktop\гикбрэйнс\Acquaintance_OOP\HomeWork\Sem7\obj\Debug\net6.0\refint\Sem7.dll
+C:\Users\DioXId\Desktop\гикбрэйнс\Acquaintance_OOP\HomeWork\Sem7\obj\Debug\net6.0\Sem7.pdb
+C:\Users\DioXId\Desktop\гикбрэйнс\Acquaintance_OOP\HomeWork\Sem7\obj\Debug\net6.0\Sem7.genruntimeconfig.cache
+C:\Users\DioXId\Desktop\гикбрэйнс\Acquaintance_OOP\HomeWork\Sem7\obj\Debug\net6.0\ref\Sem7.dll

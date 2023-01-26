@@ -22,6 +22,8 @@ import java.util.List;
  * которая будет соответствовать принципу подстановки Лисков.
  */
 public abstract class CustomList<T> {
+
+
     protected List<T> list = new ArrayList<>();
 
     public int getSize() {
